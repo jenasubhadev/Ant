@@ -1,6 +1,12 @@
 # Compiled class file
 *.class
 
+# User-specific IntelliJ stuff
+.idea/
+
+# IntelliJ
+out/
+
 # Log file
 *.log
 
